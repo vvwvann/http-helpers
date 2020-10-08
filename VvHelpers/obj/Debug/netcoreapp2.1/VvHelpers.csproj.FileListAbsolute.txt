@@ -1,0 +1,11 @@
+D:\git\VvHelpers\VvHelpers\bin\Debug\netcoreapp2.1\VvHelpers.deps.json
+D:\git\VvHelpers\VvHelpers\bin\Debug\netcoreapp2.1\VvHelpers.runtimeconfig.json
+D:\git\VvHelpers\VvHelpers\bin\Debug\netcoreapp2.1\VvHelpers.runtimeconfig.dev.json
+D:\git\VvHelpers\VvHelpers\bin\Debug\netcoreapp2.1\VvHelpers.dll
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.csproj.CoreCompileInputs.cache
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.AssemblyInfoInputs.cache
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.AssemblyInfo.cs
+D:\git\VvHelpers\VvHelpers\bin\Debug\netcoreapp2.1\VvHelpers.pdb
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.csprojAssemblyReference.cache
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.dll
+D:\git\VvHelpers\VvHelpers\obj\Debug\netcoreapp2.1\VvHelpers.pdb
